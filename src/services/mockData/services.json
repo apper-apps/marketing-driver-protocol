@@ -1,0 +1,108 @@
+[
+  {
+    "Id": 1,
+    "title": "Event Speaking",
+    "description": "Book me to speak at your event or show about digital marketing strategies, automation, and building successful marketing systems.",
+    "price": "From $2,500",
+    "features": [
+      "60-90 minute keynote presentation",
+      "Customized content for your audience",
+      "Q&A session included",
+      "Digital resources for attendees",
+      "Pre-event consultation call"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=600&h=400&fit=crop",
+    "category": "Speaking",
+    "duration": "1-2 hours",
+    "deliverables": "Keynote + Resources"
+  },
+  {
+    "Id": 2,
+    "title": "Tool Review & Training",
+    "description": "Comprehensive review and training on your marketing tools or software, with detailed analysis and optimization recommendations.",
+    "price": "From $1,200",
+    "features": [
+      "In-depth tool evaluation",
+      "Custom training session",
+      "Optimization recommendations",
+      "Implementation guide",
+      "30-day follow-up support"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1553484771-cc0d9b8c2b33?w=600&h=400&fit=crop",
+    "category": "Consulting",
+    "duration": "2-4 hours",
+    "deliverables": "Review Report + Training"
+  },
+  {
+    "Id": 3,
+    "title": "Team Training Program",
+    "description": "Complete digital marketing system training for your team, available online or offline, customized to your business needs.",
+    "price": "From $5,000",
+    "features": [
+      "Full D Marketing System curriculum",
+      "Team-specific customization",
+      "Online or offline delivery",
+      "Hands-on exercises",
+      "90-day implementation support",
+      "Team performance tracking"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&h=400&fit=crop",
+    "category": "Training",
+    "duration": "3-5 days",
+    "deliverables": "Complete Training + Support"
+  },
+  {
+    "Id": 4,
+    "title": "Marketing System Audit",
+    "description": "Comprehensive audit of your existing marketing system with detailed recommendations for improvement and optimization.",
+    "price": "From $1,800",
+    "features": [
+      "Complete system analysis",
+      "Performance benchmarking",
+      "Gap identification",
+      "Optimization roadmap",
+      "Priority action plan",
+      "Implementation timeline"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop",
+    "category": "Consulting",
+    "duration": "1-2 weeks",
+    "deliverables": "Audit Report + Roadmap"
+  },
+  {
+    "Id": 5,
+    "title": "1-on-1 Coaching",
+    "description": "Personal coaching sessions to help you build and optimize your digital marketing system with direct guidance and support.",
+    "price": "From $300/hour",
+    "features": [
+      "Personalized coaching sessions",
+      "Direct implementation guidance",
+      "Custom strategy development",
+      "Weekly progress reviews",
+      "Email support between sessions",
+      "Resource library access"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1542744094-3a31f272c490?w=600&h=400&fit=crop",
+    "category": "Coaching",
+    "duration": "Ongoing",
+    "deliverables": "Weekly Sessions + Support"
+  },
+  {
+    "Id": 6,
+    "title": "Marketing Automation Setup",
+    "description": "Done-for-you marketing automation setup including email sequences, landing pages, and integration with your existing tools.",
+    "price": "From $3,500",
+    "features": [
+      "Complete automation setup",
+      "Email sequence creation",
+      "Landing page development",
+      "Tool integration",
+      "Testing and optimization",
+      "Training on system management"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?w=600&h=400&fit=crop",
+    "category": "Implementation",
+    "duration": "2-4 weeks",
+    "deliverables": "Complete System + Training"
+  }
+]

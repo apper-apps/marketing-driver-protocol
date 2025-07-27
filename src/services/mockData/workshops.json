@@ -1,0 +1,146 @@
+[
+  {
+    "Id": 1,
+    "stage": 1,
+    "title": "Define the Offer",
+    "description": "You clearly understand what you're selling, and that helps you communicate your idea easily and build a focused marketing system that serves one clear offer.",
+    "outcomes": [
+      "Crystal clear understanding of your core offering",
+      "Focused messaging that converts better",
+      "Streamlined marketing system design",
+      "Elimination of confusion in your marketing"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1553484771-cc0d9b8c2b33?w=600&h=400&fit=crop",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1553484771-cc0d9b8c2b33?w=300&h=200&fit=crop",
+    "duration": "2 hours",
+    "format": "Interactive Workshop"
+  },
+  {
+    "Id": 2,
+    "stage": 1,
+    "title": "Audience Journey",
+    "description": "You get to know who is the right person for your offer, so you can reach them with stronger messages and increase the chances of engagement and conversion faster.",
+    "outcomes": [
+      "Clear audience persona definition",
+      "Customer journey mapping",
+      "Targeted messaging strategies",
+      "Higher engagement rates"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&h=400&fit=crop",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=300&h=200&fit=crop",
+    "duration": "2.5 hours",
+    "format": "Workshop + Exercise"
+  },
+  {
+    "Id": 3,
+    "stage": 1,
+    "title": "Craft the Marketing Message",
+    "description": "You'll be able to present your offer in an attractive way that speaks to the emotions and needs of your audience, making them move toward action.",
+    "outcomes": [
+      "Compelling value proposition creation",
+      "Emotional trigger identification",
+      "Action-oriented messaging",
+      "Conversion-focused copy"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1542744094-3a31f272c490?w=600&h=400&fit=crop",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1542744094-3a31f272c490?w=300&h=200&fit=crop",
+    "duration": "3 hours",
+    "format": "Writing Workshop"
+  },
+  {
+    "Id": 4,
+    "stage": 2,
+    "title": "Page Creation",
+    "description": "You build a complete set of pages: landing, sales, checkout, and social. All of them serve one goal and work within one system.",
+    "outcomes": [
+      "High-converting landing pages",
+      "Professional sales pages",
+      "Seamless checkout process",
+      "Social media integration"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=600&h=400&fit=crop",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=300&h=200&fit=crop",
+    "duration": "4 hours",
+    "format": "Hands-on Building"
+  },
+  {
+    "Id": 5,
+    "stage": 2,
+    "title": "Message Sequence System",
+    "description": "You build a relationship with your audience and increase their trust in you through carefully designed automated messages that prepare them to buy—without pressure.",
+    "outcomes": [
+      "Email sequence automation",
+      "Trust-building content",
+      "Nurture campaign setup",
+      "Conversion optimization"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?w=600&h=400&fit=crop",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?w=300&h=200&fit=crop",
+    "duration": "3.5 hours",
+    "format": "Strategy + Implementation"
+  },
+  {
+    "Id": 6,
+    "stage": 2,
+    "title": "Tool Integration & Automation Activation",
+    "description": "Everything runs on its own: from the page to the email to the payment. You don't waste time on manual work and focus on the results.",
+    "outcomes": [
+      "Complete system automation",
+      "Tool integration mastery",
+      "Workflow optimization",
+      "Time-saving processes"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?w=600&h=400&fit=crop",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?w=300&h=200&fit=crop",
+    "duration": "3 hours",
+    "format": "Technical Workshop"
+  },
+  {
+    "Id": 7,
+    "stage": 3,
+    "title": "Traffic & Visitors",
+    "description": "You start bringing real visitors to your system and see the first results on the ground—signups, engagement, and real interest.",
+    "outcomes": [
+      "Traffic generation strategies",
+      "Visitor conversion optimization",
+      "Real-time result monitoring",
+      "Engagement improvement"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=300&h=200&fit=crop",
+    "duration": "3 hours",
+    "format": "Campaign Launch"
+  },
+  {
+    "Id": 8,
+    "stage": 3,
+    "title": "Monitoring & Analysis",
+    "description": "You understand what's working and what's not, so your decisions are based on real data—not guessing or gut feeling.",
+    "outcomes": [
+      "Data-driven decision making",
+      "Performance tracking setup",
+      "Analytics interpretation",
+      "Optimization strategies"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=300&h=200&fit=crop",
+    "duration": "2.5 hours",
+    "format": "Analytics Deep Dive"
+  },
+  {
+    "Id": 9,
+    "stage": 3,
+    "title": "Artificial Intelligence",
+    "description": "Turn your marketing system into a smart machine that works on its own… using AI tools!",
+    "outcomes": [
+      "AI tool implementation",
+      "Smart automation setup",
+      "Intelligent optimization",
+      "Future-proof marketing"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&h=400&fit=crop",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=300&h=200&fit=crop",
+    "duration": "4 hours",
+    "format": "AI Integration Lab"
+  }
+]
